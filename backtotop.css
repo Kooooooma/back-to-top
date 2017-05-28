@@ -1,0 +1,18 @@
+.backtotop-btn-by-koma {
+    position: fixed;
+    z-index: 999999;
+    width: 45px;
+    height: 50px;
+    line-height: 50px;
+    background: #24292E;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 3px;
+    display: none;
+}
+.backtotop-btn-mouseover{color: #FFF;}
+.backtotop-btn-mouseout{color: #C8C9CA;}
